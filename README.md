@@ -4,7 +4,7 @@ I'm making...
 - FutureVuls( https://vuls.biz/ ) : scan servers and controll vulnerabilities
 
 and I made...
-- VRC TechBooks( https://vrc-tech.work/ ) : Dojin event in VRChat.
+- VRC TechBooks( https://vrc-tech.com/ ) : Dojin event in VRChat.
 - vrc_reachable_friends: [Chrome extension](https://chrome.google.com/webstore/detail/reachable-friends-in-vrch/hebnhlhdlkmginlcgeflnfaihgeflipb) and archived(Same function is Implemented in Officially!)
 - HACK TO THE FUTURE 2018 simulator( https://atcoder.jp/contests/future-contest-2018-qual/ ) : Competitive programming
 - and more (in https://alfebelow.com/ )
