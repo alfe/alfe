@@ -18,6 +18,7 @@
     - Dojin event in VRChat.
 - and more
     - https://alfebelow.com/
+    - and repositories
 
 ### hiring
 
