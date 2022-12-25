@@ -7,15 +7,20 @@
 
 ### I made...
 
-- OBS Discord Icon Appearance Change Generator
-    - https://obs-discord-icon.alfebelow.com/
-    - Generator to create custom CSS for displaying members on a Discord call in OBS Studio.
+- Custom CSS Maker for OBS with Discord Streamkit
+    - OBS Discord Icon Appearance Change Generator
+        - https://obs-discord-icon.alfebelow.com/
+        - Generator to create custom CSS for displaying members on a Discord call in OBS Studio.
+    - Discord Text Channel Appearance Change Generator
+        - https://obs-discord-icon.alfebelow.com/
+        - Generator to create custom CSS to change appearance when displaying Discord chats in OBS Studio.
+    - Displaying Discord callers as images Generator
+        - https://obs-discord-picture.alfebelow.com/
+        - Generator to create custom CSS for displaying members on a Discord call with a standing image in OBS Studio.
+
 - FutureVuls
     - https://vuls.biz/
     - scan servers and controll vulnerabilities
-- VRC TechBooks
-    - https://vrc-tech.com/
-    - Dojin event in VRChat.
 - and more
     - https://alfebelow.com/
     - and repositories
