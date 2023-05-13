@@ -1,8 +1,9 @@
 ### accounts
 
+- Blog: <a href="http://blog.alfebelow.com/" target="_blank">FUN YOU BLOG</a>
+- Mastodon: <a href="https://mastodon-japan.net/@alfe" target="_blank">@alfe@mastodon-japan.net</a>
 - Twitter: <a href="https://twitter.com/alfe_below" target="_blank">@alfe_below</a>
 - Qiita: <a href="https://qiita.com/alfe_below" target="_blank">@alfe_below</a>
-- Blog: <a href="http://blog.alfebelow.com/" target="_blank">FUN YOU BLOG</a>
 - Other: <a href="https://alfebelow.com/" target="_blank">alfebelow.com</a>
 
 ### I made...
@@ -18,10 +19,7 @@
         - https://obs-discord-picture.alfebelow.com/
         - Generator to create custom CSS for displaying members on a Discord call with a standing image in OBS Studio.
 
-- FutureVuls
-    - https://vuls.biz/
-    - scan servers and controll vulnerabilities
-- and more
+- and more...
     - https://alfebelow.com/
     - and repositories
 
