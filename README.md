@@ -18,7 +18,13 @@
     - Displaying Discord callers as images Generator
         - https://obs-discord-picture.alfebelow.com/
         - Generator to create custom CSS for displaying members on a Discord call with a standing image in OBS Studio.
-
+- npx commands
+    - `npx aviftojpg .`
+        - CLI to convert AVIF files to JPEG files
+        - https://www.npmjs.com/package/aviftojpg
+    - `npx printpngprompt example.png`
+        - Print Stable Diffusion Prompt included in PNG files
+        - https://www.npmjs.com/package/printpngprompt
 - and more...
     - https://alfebelow.com/
     - and repositories
