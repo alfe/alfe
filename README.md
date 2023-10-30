@@ -1,7 +1,7 @@
 ### accounts
 
 - Blog: <a href="http://blog.alfebelow.com/" target="_blank">FUN YOU BLOG</a>
-- Mastodon: <a href="https://mastodon-japan.net/@alfe" target="_blank">@alfe@mastodon-japan.net</a>
+- Mastodon: <a href="https://mastodon-japan.net/@alfe" target="_blank">@ alfe@mastodon-japan.net</a>
 - Twitter: <a href="https://twitter.com/alfe_below" target="_blank">@alfe_below</a>
 - Qiita: <a href="https://qiita.com/alfe_below" target="_blank">@alfe_below</a>
 - Other: <a href="https://alfebelow.com/" target="_blank">alfebelow.com</a>
