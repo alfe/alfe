@@ -12,12 +12,12 @@
     - OBS Discord Icon Appearance Change Generator
         - https://obs-discord-icon.alfebelow.com/
         - Generator to create custom CSS for displaying members on a Discord call in OBS Studio.
-    - Discord Text Channel Appearance Change Generator
-        - https://obs-discord-icon.alfebelow.com/
-        - Generator to create custom CSS to change appearance when displaying Discord chats in OBS Studio.
     - Displaying Discord callers as images Generator
         - https://obs-discord-picture.alfebelow.com/
         - Generator to create custom CSS for displaying members on a Discord call with a standing image in OBS Studio.
+    - Discord Text Channel Appearance Change Generator
+        - https://obs-discord-text.alfebelow.com
+        - Generator to create custom CSS to change appearance when displaying Discord chats in OBS Studio.
 - npx commands
     - `npx aviftojpg .`
         - CLI to convert AVIF files to JPEG files
